@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400&#43; best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device. 
+- [sarabander/p2pu-sicp](https://github.com/sarabander/p2pu-sicp) - Solutions to exercises from &#34;Structure and Interpretation of Computer Programs&#34; (SICP) by Abelson, Sussman and Sussman. A PDF version of the book is here:
+- [LazyGeniusMan/Scoop-Genshin](https://github.com/LazyGeniusMan/Scoop-Genshin) - Scoop bucket for Genshin Impact related tools.
+- [Jelosus2/enkanetwork.js](https://github.com/Jelosus2/enkanetwork.js) - An API wrapper for the API of the Enka.Network website
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
