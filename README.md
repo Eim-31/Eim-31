@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [kaleedtc/Privacium](https://github.com/kaleedtc/Privacium) - A simple app for discovering tools that respects your privacy.
-- [Eim-31/revanced-auto-builder](https://github.com/Eim-31/revanced-auto-builder) - 
-- [sarabander/p2pu-sicp](https://github.com/sarabander/p2pu-sicp) - Solutions to exercises from &#34;Structure and Interpretation of Computer Programs&#34; (SICP) by Abelson, Sussman and Sussman. A PDF version of the book is here:
+- [fynks/fynks.github.io](https://github.com/fynks/fynks.github.io) - 
+- [fynks/duplicate-photos-finder](https://github.com/fynks/duplicate-photos-finder) - Find all the duplicate images in a folder by pixel-wise comparison and deletes them. Repeats it for all sub-directories as well.
+- [fynks/knowledgebase](https://github.com/fynks/knowledgebase) - A personal knowledgebase
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
