@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [fynks/fynks.github.io](https://github.com/fynks/fynks.github.io) - 
-- [fynks/duplicate-photos-finder](https://github.com/fynks/duplicate-photos-finder) - Find all the duplicate images in a folder by pixel-wise comparison and deletes them. Repeats it for all sub-directories as well.
-- [fynks/knowledgebase](https://github.com/fynks/knowledgebase) - A personal knowledgebase
+- [Eim-31/Eim-31.github.io](https://github.com/Eim-31/Eim-31.github.io) - My Dynamic Personal Portfolio
+- [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
+- [Eim-31/tempp](https://github.com/Eim-31/tempp) - 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
