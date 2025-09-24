@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [Eim-31/Eim-31.github.io](https://github.com/Eim-31/Eim-31.github.io) - My Dynamic Personal Portfolio
-- [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
-- [Eim-31/tempp](https://github.com/Eim-31/tempp) - 
+- [jshuadvd/computer-science-and-engineering](https://github.com/jshuadvd/computer-science-and-engineering) - Path to a self-taught graduation in Computer Science
+- [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+- [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
