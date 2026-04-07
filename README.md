@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [silvadev13/ApkBuilder](https://github.com/silvadev13/ApkBuilder) - A lightweight Android Project builder CLI
+- [MisfiT2020/StreamXBot](https://github.com/MisfiT2020/StreamXBot) - StreamX is a self-hosted music platform that manage your personal library and YouTube Music into one fast, modern experience across Android, web. Stream, download, and organize your music with ease — from albums and artists to playlists and live jam sessions with friends.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
