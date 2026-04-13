@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [silvadev13/ApkBuilder](https://github.com/silvadev13/ApkBuilder) - A lightweight Android Project builder CLI
-- [MisfiT2020/StreamXBot](https://github.com/MisfiT2020/StreamXBot) - StreamX is a self-hosted music platform that manage your personal library and YouTube Music into one fast, modern experience across Android, web. Stream, download, and organize your music with ease — from albums and artists to playlists and live jam sessions with friends.
-- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
