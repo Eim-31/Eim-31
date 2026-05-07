@@ -54,7 +54,7 @@
 </p>
 
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [silvadev13/ApkBuilder](https://github.com/silvadev13/ApkBuilder) - A lightweight Android Project builder CLI
 
 <p align="center">
