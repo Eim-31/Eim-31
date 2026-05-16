@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [siddarthkay/syncup](https://github.com/siddarthkay/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
+- [WorkofAditya/ChatBot](https://github.com/WorkofAditya/ChatBot) - A interctive offline chatbot vault that stores your personal documents, notes, and files locally, no internet or servers required.
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
-- [silvadev13/ApkBuilder](https://github.com/silvadev13/ApkBuilder) - A lightweight Android Project builder CLI
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
