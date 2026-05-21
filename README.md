@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [siddarthkay/syncup](https://github.com/siddarthkay/syncup) - SyncUp: an open-source Syncthing client for iOS and Android, powered by react-native
-- [WorkofAditya/ChatBot](https://github.com/WorkofAditya/ChatBot) - A interctive offline chatbot vault that stores your personal documents, notes, and files locally, no internet or servers required.
-- [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
+- [AKS-Labs/PixelScreenshots](https://github.com/AKS-Labs/PixelScreenshots) - Pixel Screenshots: Screenshot Manager App: Captures device screenshots, displays them as draggable floating bubbles, and allows users to organize them into customizable circular folders via drag-and-drop.
+- [strayacode/matcha](https://github.com/strayacode/matcha) - A PS2 Emulator Written in C&#43;&#43;
+- [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
