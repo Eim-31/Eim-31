@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [AKS-Labs/PixelScreenshots](https://github.com/AKS-Labs/PixelScreenshots) - Pixel Screenshots: Screenshot Manager App: Captures device screenshots, displays them as draggable floating bubbles, and allows users to organize them into customizable circular folders via drag-and-drop.
-- [strayacode/matcha](https://github.com/strayacode/matcha) - A PS2 Emulator Written in C&#43;&#43;
-- [xlenore/ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
+- [d4rken-org/octi-desktop](https://github.com/d4rken-org/octi-desktop) - A desktop client for Octi: A multi-device manager.
+- [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
+- [WirelessAlien/MovieDB](https://github.com/WirelessAlien/MovieDB) - ShowCase is a fully open-source android application for exploring and organizing your personal collection of films and television series.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
