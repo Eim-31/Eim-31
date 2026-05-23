@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [d4rken-org/octi-desktop](https://github.com/d4rken-org/octi-desktop) - A desktop client for Octi: A multi-device manager.
-- [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
-- [WirelessAlien/MovieDB](https://github.com/WirelessAlien/MovieDB) - ShowCase is a fully open-source android application for exploring and organizing your personal collection of films and television series.
+- [one-dhiraj/onesync](https://github.com/one-dhiraj/onesync) - OneSync lets you sync notifications across your devices in real-time. 
+- [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
+- [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
