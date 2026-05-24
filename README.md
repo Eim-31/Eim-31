@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [one-dhiraj/onesync](https://github.com/one-dhiraj/onesync) - OneSync lets you sync notifications across your devices in real-time. 
-- [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
-- [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
+- [DenserMeerkat/June](https://github.com/DenserMeerkat/June) - 📖 An open-source multimedia journal for expressive, private journaling, with 100% data ownership.
+- [TheGandabherunda/OpenJot](https://github.com/TheGandabherunda/OpenJot) - OpenJot is a minimal and open-source journaling app designed for privacy and simplicity. All your thoughts, memories, and ideas are stored securely on your device, never in the cloud.
+- [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
