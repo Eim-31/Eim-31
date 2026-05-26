@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [SatyaSnehith/WebShare](https://github.com/SatyaSnehith/WebShare) - Share files and text locally via browser.
-- [DenserMeerkat/June](https://github.com/DenserMeerkat/June) - 📖 An open-source multimedia journal for expressive, private journaling, with 100% data ownership.
-- [TheGandabherunda/OpenJot](https://github.com/TheGandabherunda/OpenJot) - OpenJot is a minimal and open-source journaling app designed for privacy and simplicity. All your thoughts, memories, and ideas are stored securely on your device, never in the cloud.
+- [Pankaj-Meharchandani/Skreenup](https://github.com/Pankaj-Meharchandani/Skreenup) - Skreenup is a minimal app that wraps your screenshots in beautiful device frames for Play Store listings, portfolios, and social sharing. Drop a screenshot in, pick a device shell, customize the background, and export a clean mockup in seconds. No Figma, no web tools, no account needed. Built with Jetpack Compose and Material You.
+- [teja2495/quick-search](https://github.com/teja2495/quick-search) - An universal search app for Android which can search apps, shortcuts, contacts, files, calendar events, notes, settings and the internet.
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
