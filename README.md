@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [KashCal/KashCal](https://github.com/KashCal/KashCal) - Modern Android calendar with CalDAV sync: iCloud, Nextcloud, and more. Privacy-first, no tracking. On F-Droid.
+- [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph) - WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.
 - [Pankaj-Meharchandani/Skreenup](https://github.com/Pankaj-Meharchandani/Skreenup) - Skreenup is a minimal app that wraps your screenshots in beautiful device frames for Play Store listings, portfolios, and social sharing. Drop a screenshot in, pick a device shell, customize the background, and export a clean mockup in seconds. No Figma, no web tools, no account needed. Built with Jetpack Compose and Material You.
-- [teja2495/quick-search](https://github.com/teja2495/quick-search) - An universal search app for Android which can search apps, shortcuts, contacts, files, calendar events, notes, settings and the internet.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
