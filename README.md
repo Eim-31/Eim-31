@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
+- [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [KashCal/KashCal](https://github.com/KashCal/KashCal) - Modern Android calendar with CalDAV sync: iCloud, Nextcloud, and more. Privacy-first, no tracking. On F-Droid.
-- [ahmet-cetinkaya/whph](https://github.com/ahmet-cetinkaya/whph) - WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.
-- [Pankaj-Meharchandani/Skreenup](https://github.com/Pankaj-Meharchandani/Skreenup) - Skreenup is a minimal app that wraps your screenshots in beautiful device frames for Play Store listings, portfolios, and social sharing. Drop a screenshot in, pick a device shell, customize the background, and export a clean mockup in seconds. No Figma, no web tools, no account needed. Built with Jetpack Compose and Material You.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
