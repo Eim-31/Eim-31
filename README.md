@@ -53,9 +53,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
-- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
-- [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-- [KashCal/KashCal](https://github.com/KashCal/KashCal) - Modern Android calendar with CalDAV sync: iCloud, Nextcloud, and more. Privacy-first, no tracking. On F-Droid.
+- [brianblakely/omarchy-plugins](https://github.com/brianblakely/omarchy-plugins) - Plugins that provide useful new widgets and features for Omarchy (https://omarchy.org/).
+- [Shoukaku39/kdeconnect-android-shizuku](https://github.com/Shoukaku39/kdeconnect-android-shizuku) - Forked from KDE Connect Android. Adds Shizuku support to bypass clipboard access restrictions on Android 10&#43; without using READ_LOGS or manual ADB shell. 基于 KDE Connect Android 的分支，添加对 Shizuku 的支持，在无需请求 READ_LOGS 或手动 ADB 授权的情况下，绕过 Android 10&#43; 剪贴板访问限制。
+- [Ven0m0/android](https://github.com/Ven0m0/android) - 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
