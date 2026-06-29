@@ -34,7 +34,6 @@
 </p>
 
 - [Eim-31/Personal](https://github.com/Eim-31/Personal) - 
-- [Eim-31/skills-introduction-to-github](https://github.com/Eim-31/skills-introduction-to-github) - My clone repository
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/latest-projects.svg" alt="latest-projects.svg" />
