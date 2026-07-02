@@ -52,9 +52,9 @@
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/recent-stars.svg" alt="recent-stars.svg" />
 </p>
 
+- [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery) - Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
 - [Anisurge/App](https://github.com/Anisurge/App) - 
 - [Psychotoxical/psysonic](https://github.com/Psychotoxical/psysonic) - A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the future with Tauri &amp; React.
-- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Automate with Linux Commands on Android in a single click.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Eim-31/Eim-31/main/assets/blog-posts.svg" alt="blog-posts.svg" />
